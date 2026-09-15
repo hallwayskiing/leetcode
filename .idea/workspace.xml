@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="464041f9-7237-48d9-bba7-95ab07ad7696" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="142" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hallwayskiing&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:hallwayskiing/Codes.git&quot;,
+    &quot;accountId&quot;: &quot;046c696b-0549-4e39-8440-b869442ae227&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32eykGHHeJqztv6moNd1tjjaMob" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DailyTemperature.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DecodeString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Heap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestRectangleInHistogram.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.LongestSubstringWithoutRepeating.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinimumWindowSubstring.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NewsProvider.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderMatcher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Packages.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchMatrix.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SearchRange.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortColors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Synchronizer.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Codes/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AIAssistantPromptsLibrary&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Synchronizer">
+    <configuration name="NewsProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optiver.NewsProvider" />
+      <module name="leetcode" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Optiver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optiver.OrderMatcher" />
+      <module name="leetcode" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Optiver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Packages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Packages" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tiktok.Sort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tiktok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optiver.Synchronizer" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Optiver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NewsProvider" />
+      <item itemvalue="Application.OrderMatcher" />
+      <item itemvalue="Application.Packages" />
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.Synchronizer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Synchronizer" />
+        <item itemvalue="Application.NewsProvider" />
+        <item itemvalue="Application.OrderMatcher" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.Packages" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="464041f9-7237-48d9-bba7-95ab07ad7696" name="Changes" comment="" />
+      <created>1757119774046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757119774046</updated>
+      <workItem from="1757119774046" duration="96000" />
+      <workItem from="1757795475671" duration="6099000" />
+      <workItem from="1757815235773" duration="197000" />
+      <workItem from="1757815447959" duration="9177000" />
+      <workItem from="1757864389128" duration="17577000" />
+      <workItem from="1757950771120" duration="3407000" />
+      <workItem from="1758037058140" duration="4819000" />
+      <workItem from="1758469079530" duration="27853000" />
+      <workItem from="1758643980768" duration="20529000" />
+      <workItem from="1759011419006" duration="19867000" />
+      <workItem from="1759097297800" duration="20659000" />
+      <workItem from="1759159723855" duration="22156000" />
+      <workItem from="1759250269437" duration="35984000" />
+      <workItem from="1759340261546" duration="29858000" />
+      <workItem from="1759420716546" duration="10941000" />
+      <workItem from="1759976601369" duration="11136000" />
+      <workItem from="1760147039811" duration="2711000" />
+      <workItem from="1760220037222" duration="17060000" />
+      <workItem from="1760309921755" duration="11726000" />
+      <workItem from="1762590311952" duration="126000" />
+      <workItem from="1762721993101" duration="1679000" />
+      <workItem from="1762729529955" duration="928000" />
+      <workItem from="1763582368549" duration="1000" />
+      <workItem from="1764223613316" duration="4970000" />
+      <workItem from="1764267713684" duration="24504000" />
+      <workItem from="1764371037031" duration="7268000" />
+      <workItem from="1764382906379" duration="16608000" />
+      <workItem from="1764467363269" duration="20676000" />
+      <workItem from="1764527296954" duration="35235000" />
+      <workItem from="1764618935235" duration="6709000" />
+      <workItem from="1764665327272" duration="2439000" />
+      <workItem from="1764698267420" duration="3361000" />
+      <workItem from="1765147574044" duration="19519000" />
+      <workItem from="1765266583423" duration="538000" />
+      <workItem from="1765304425408" duration="2600000" />
+      <workItem from="1765392413081" duration="720000" />
+      <workItem from="1765411497869" duration="4408000" />
+      <workItem from="1765473494749" duration="518000" />
+      <workItem from="1765474194797" duration="102000" />
+      <workItem from="1765475483941" duration="86000" />
+      <workItem from="1768776899957" duration="1272000" />
+      <workItem from="1769373598966" duration="11000" />
+      <workItem from="1772165554556" duration="4469000" />
+      <workItem from="1772308316815" duration="791000" />
+      <workItem from="1772311583709" duration="26944000" />
+      <workItem from="1772389461778" duration="35797000" />
+      <workItem from="1772476464509" duration="23144000" />
+      <workItem from="1772565023627" duration="21584000" />
+      <workItem from="1772613507188" duration="14000" />
+      <workItem from="1772676912952" duration="3517000" />
+      <workItem from="1772763078140" duration="2649000" />
+      <workItem from="1773278129296" duration="3337000" />
+      <workItem from="1773881763427" duration="3857000" />
+      <workItem from="1774404823215" duration="753000" />
+      <workItem from="1774475804137" duration="4685000" />
+      <workItem from="1774489083594" duration="2536000" />
+      <workItem from="1774747112705" duration="2420000" />
+      <workItem from="1774822198566" duration="6588000" />
+      <workItem from="1775175432025" duration="6048000" />
+      <workItem from="1775782403592" duration="3726000" />
+      <workItem from="1775933423334" duration="26394000" />
+      <workItem from="1776028681889" duration="15761000" />
+      <workItem from="1776109489769" duration="5108000" />
+      <workItem from="1776135258191" duration="11986000" />
+      <workItem from="1776191008929" duration="20280000" />
+      <workItem from="1776275286854" duration="16120000" />
+      <workItem from="1776350266127" duration="1009000" />
+      <workItem from="1776398174431" duration="5922000" />
+      <workItem from="1776815754755" duration="16807000" />
+      <workItem from="1776881726519" duration="7280000" />
+      <workItem from="1776983474435" duration="1998000" />
+      <workItem from="1777404722464" duration="8170000" />
+      <workItem from="1789212873296" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
