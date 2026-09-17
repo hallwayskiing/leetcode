@@ -44,7 +44,7 @@ public class TopKFrequentElements {
         }
 
         PriorityQueue<Integer> queue = new PriorityQueue<>(
-                (a, b) -> freqMap.get(a) - freqMap.get(b)
+                (a, b) -> Integer.compare(freqMap.get(a), freqMap.get(b))
         );
 
         for (int num : freqMap.keySet()) {

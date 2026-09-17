@@ -33,8 +33,9 @@ public class Heap {
         arr[j]=temp;
     }
 
-    // 堆排序（升序）
+    // 堆排序（降序）
     public void heapSort(int[] arr) {
+        buildMinHeap(arr);
         int n=arr.length;
         // 不断取出堆顶最小值，放到数组末尾
         for (int i = n - 1; i > 0; i--) {

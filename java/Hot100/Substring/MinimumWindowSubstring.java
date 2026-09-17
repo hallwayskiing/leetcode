@@ -9,49 +9,38 @@ package Hot100.Substring;
  */
 public class MinimumWindowSubstring {
     public String minWindow(String s, String t) {
-        int m = s.length();
-        int n = t.length();
-        if (m < n) return "";
-
-        int[] cntT = new int[128];
+        int[] need = new int[128];
         for (char c : t.toCharArray()) {
-            cntT[c]++;
+            need[c]++;
         }
+        int remain = t.length();
 
-        int[] cntS = new int[128];
-        int target = 0;
-        int minLeft = 0;
-        int minLen = Integer.MAX_VALUE;
-
+        int start = 0, end = Integer.MAX_VALUE;
         int left = 0;
-        int right = 0;
-        while (right < m) {
-            char r = s.charAt(right);
-
-            cntS[r]++;
-            right++;
-
-            // find a target
-            if (cntS[r] <= cntT[r]) {
-                target++;
+        for (int right = 0; right < s.length(); right++) {
+            char curr = s.charAt(right);
+            if (need[curr]>0){
+                remain--;
             }
+            need[curr]--;
 
-            while (target == n) {
-                if (right - left < minLen) {
-                    minLeft = left;
-                    minLen = right - left;
+            if (remain==0){
+                while (need[s.charAt(left)]<0){
+                    need[s.charAt(left)]++;
+                    left++;
                 }
 
-                char l = s.charAt(left);
+                if(right - left < end - start){
+                    start=left;
+                    end=right;
+                }
 
-                cntS[l]--;
+                need[s.charAt(left)]++;
                 left++;
-
-                if (cntS[l] < cntT[l]) {
-                    target--;
-                }
+                remain++;
             }
         }
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(minLeft, minLeft + minLen);
+
+        return end == Integer.MAX_VALUE ? "" : s.substring(start, end + 1);
     }
 }

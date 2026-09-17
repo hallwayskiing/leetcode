@@ -60,34 +60,45 @@ public class KthLargestElement {
 
     private int quickSelect(int[] nums, int begin, int end, int k) {
         if (begin == end) {
-            return nums[k];
+            return nums[begin];
         }
 
-        int pivot = partition(nums, begin, end);
+        int pivot_index = partition(nums, begin, end);
 
-        if (k == pivot) {
+        if (k == pivot_index) {
             return nums[k];
-        } else if (k < pivot) {
-            return quickSelect(nums, begin, pivot - 1, k);
+        } else if (k < pivot_index) {
+            return quickSelect(nums, begin, pivot_index - 1, k);
         } else {
-            return quickSelect(nums, pivot + 1, end, k);
+            return quickSelect(nums, pivot_index + 1, end, k);
         }
     }
 
     private int partition(int[] nums, int begin, int end) {
         int pivot = nums[begin];
-        int left = begin, right = end;
-        while (left < right) {
-            while (left < right && nums[right] >= pivot) {
-                right--;
+        int i = begin + 1, j = end;
+        while (true) {
+            while (i <= j && nums[i] < pivot) {
+                i++;
             }
-            nums[left] = nums[right];
-            while (left < right && nums[left] <= pivot) {
-                left++;
+            while (i <= j && nums[j] > pivot) {
+                j--;
             }
-            nums[right] = nums[left];
+
+            if (i >= j) {
+                break;
+            }
+
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
+            i++;
+            j--;
         }
-        nums[left] = pivot;
-        return left;
+
+        nums[begin] = nums[j];
+        nums[j] = pivot;
+
+        return j;
     }
 }
